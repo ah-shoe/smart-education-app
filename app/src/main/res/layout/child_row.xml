@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent" android:layout_height="50dp"
+    android:background="#2f5596"
+
+    android:orientation="vertical">
+<ImageView
+    android:id="@+id/iv_childicon"
+    android:layout_width="25dp"
+    android:layout_height="40dp"
+    android:src="@drawable/ppt"
+    android:layout_marginLeft="10dp"
+    android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_toRightOf="@+id/iv_childicon"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:paddingLeft="10dp"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:text="Chapter Notes"/>
+<Button
+    android:id="@+id/btn_view"
+    android:layout_width="wrap_content"
+    android:layout_height="40dp"
+    android:text="View"
+   android:layout_margin="3dp"
+    android:textColor="#fff"
+    android:background="#65a739"
+    android:layout_toRightOf="@+id/tv1"/>
+    <Button
+        android:background="#fbc501"
+        android:layout_margin="3dp"
+        android:textColor="#fff"
+        android:id="@+id/btn_download"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:text="Download"
+        android:layout_toRightOf="@+id/btn_view"/>
+    <TextView
+
+        android:id="@+id/sequence"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentLeft="true"
+
+        android:layout_alignParentTop="true"
+
+        android:paddingLeft="35sp"
+android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/childItem"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+
+        android:layout_toRightOf="@id/sequence"
+
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

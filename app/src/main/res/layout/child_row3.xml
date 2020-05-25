@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+android:background="#2f5596"
+    android:layout_height="50dp"
+
+
+    android:orientation="vertical">
+<ImageView
+    android:id="@+id/iv_childicon"
+    android:layout_width="25dp"
+    android:layout_height="40dp"
+    android:src="@drawable/video_icon_23"
+    android:layout_marginLeft="10dp"
+    android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_toRightOf="@+id/iv_childicon"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:textColor="#fff"
+        android:paddingLeft="10dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:text="Lecture-01"/>
+    <Button
+        android:background="#6cb041"
+       android:layout_marginTop="5dp"
+        android:textColor="#fff"
+        android:id="@+id/btn_download"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:text="View Video Lecture"
+       android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:padding="5dp"/>
+    <TextView
+
+        android:id="@+id/sequence"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentLeft="true"
+
+        android:layout_alignParentTop="true"
+
+        android:paddingLeft="35sp"
+android:visibility="gone"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/childItem"
+
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+
+        android:layout_toRightOf="@id/sequence"
+
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>

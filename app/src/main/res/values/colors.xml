@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+
+
+    <color name="my_note">#3264bd</color>
+    <color name="my_assignment">#6daf41</color>
+    <color name="my_video_lectures">#989898</color>
+    <color name="my_attendance">#f27825</color>
+    <color name="my_results">#4b92d2</color>
+    <color name="my_homework">#ffc603</color>
+
+    <color name="physics">#c5e0b5</color>
+    <color name="mathematics">#ffe69b</color>
+    <color name="chemistry">#f8cbae</color>
+    <color name="biology">#d8beed</color>
+
+
+    <color name="myassessmentscolor">#67a93b</color>
+    <color name="myvideolacturecolor">#a6a6a6</color>
+    <color name="myresultcolor">#5398d9</color>
+
+    <color name="appColor">#68358e</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="light_font">#85f4f4f4</color>
+
+    <color name="nav_row_color">#1b1b1b</color>
+    <color name="nav_back_ground_color">#202630</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="text_shadow">#000000</color>
+
+    <color name="background_grey">#e5e6e9</color>
+
+    <color name="actionbar_color">#252122</color>
+
+    <color name="nav_list_color">#bc3a1557</color>
+
+
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_2">#AFAFAF</color>
+    <color name="gray_1">#C0C0C0</color>
+
+    <color name="caldroid_white">#FFFFFF</color>
+    <color name="caldroid_black">#000000</color>
+    <color name="caldroid_transparent">#00000000</color>
+    <!-- For settings framework -->
+    <color name="caldroid_lighter_gray">#ddd</color>
+    <color name="caldroid_gray">#CCC</color>
+    <color name="caldroid_darker_gray">#aaa</color>
+    <color name="caldroid_middle_gray">#888</color>
+    <!-- A light Holo shade of blue -->
+    <color name="caldroid_holo_blue_light">#ff33b5e5</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="caldroid_holo_blue_dark">#ff0099cc</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="caldroid_sky_blue">#FFA3E8F7</color>
+
+    <color name="caldroid_333">#333</color>
+    <color name="caldroid_555">#555</color>
+    <color name="caldroid_444">#b90202</color>
+    <color name="caldroid_light_red">#ff7f7f</color>
+
+    <color name="green">#8FCC85</color>
+    <color name="blue">#ff33b5e5</color>
+
+
+
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EdEaze</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_myhomeworkfinal">Myhomeworkfinal</string>
+    <string name="title_activity_myassessmentfinal">Myassessmentfinal</string>
+    <string name="title_activity_myassessmentsubjects">Myassessmentsubjects</string>
+    <string name="title_activity_mynotesactivity">Mynotesactivity</string>
+
+
+    <string name="my_notes">My Notes</string>
+    <string name="my_assignment">My Assessments</string>
+    <string name="my_video_lectures">My Video Lectures</string>
+    <string name="my_attendance">My Attendance</string>
+    <string name="my_results">My Results</string>
+    <string name="my_homework">My Homework</string>
+
+    <string name="physics">Physics</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="biology">Biology</string>
+    <string name="title_activity_mynotessubjectsactivity">Mynotessubjectsactivity</string>
+
+    <string-array name="dept_array">
+        <item>Chapter1</item>
+        <item>Chapter2</item>
+        <item>Chapter3</item>
+
+    </string-array>
+    <string name="title_activity_my_start_assessmentactivity">MyStartAssessmentactivity</string>
+
+
+</resources>
