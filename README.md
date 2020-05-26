@@ -8,13 +8,16 @@ An android application to help students learn by fun
 Please note that Android Studio minimum version 2.1.2 and  Android SDK minimum Version 17 should be used.
 
 2. There are two methods for run the source code
+
 (i)
     - Open Android Studio
     - Import the project in Android Studio from here or use the GitHub repository https://github.com/ah-shoe/smart-education-app.git
     - After the project is imported, build the project.
     - After successful build, run the app using Run->Run 'app', make sure that you already have an android virtual device(AVD) from the Android Studio Installation, if not, create an AVD first.
     - You can see the application running on your AVD.
+
 OR
+
 (ii)
     - Open Android Studio
     - Create New Project
